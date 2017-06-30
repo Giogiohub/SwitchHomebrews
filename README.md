@@ -1,0 +1,2 @@
+# SwitchHomebrews
+Homebrew channel
